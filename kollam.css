@@ -1,0 +1,35 @@
+*{margin: 0px;
+padding: 0px;}
+
+#t{ background-position: fixed;
+    background-size: cover;
+margin-left: 20px;
+}
+
+
+nav{
+    float: right;
+
+}
+#logo{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.in{
+    margin-left: 610px;
+    margin-bottom: 20px;
+    margin-top: 200px;
+ }
+ 
+ footer{
+    text-align: center;
+}
+
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: large;
+}
+h4{
+    color: blue;
+}

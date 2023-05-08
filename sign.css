@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo{
+    float: left;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.na{
+    float: right;
+    margin-top: 15px;
+}
+
+#t{
+margin-top: px;
+margin-left: 0px;
+float: left;
+background-position: fixed;
+background-size: cover;
+}
+
+.fill{ background-color: rgb(245, 244, 244);
+   width: 15cm ;
+   margin-left: 550px;
+   border: 2px solid grey;
+   margin-top: 400px;
+   padding: 30px;
+   
+}
+.fill h2{
+    text-align: center;
+    color: rgb(46, 145, 243);
+}
+
+#submit{
+   margin-left: 75px;
+   width: 10cm;
+   margin-top: 30px;
+   
+}
+
+
+.pop{
+    text-align: left;
+}
+.lol{
+    text-align: left;
+}
+.lol h6{
+    color: rgb(12, 117, 117);
+}
+.lst{border: 2px solid rgb(200, 252, 235);
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(200, 252, 235);
+    margin-top: 200px;
+}
+#kot{
+    text-align: center;
+}
+.btn {
+    background-color: blue;
+}
+footer{
+    text-align: center;
+}
+.in{
+    margin-left: 580px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    padding: 30px;
+ }

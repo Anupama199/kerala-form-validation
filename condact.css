@@ -1,0 +1,56 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    float: right;
+margin-top: 10px;
+}
+.nav-item a{
+    margin-left: 40px;
+    
+}
+#logo{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#q{
+    text-align: center;
+    color: rgb(8, 8, 102);
+    border: 1px solid (black);
+    background-color: rgb(53, 115, 129);
+    width: fit-content;
+    align-items: center;
+    margin-left: 675px;
+    padding: 5px;}
+
+#icon{
+    margin-left: 550px;
+}
+#dis{
+    text-align: center;
+    color: rgb(12, 117, 117);
+}
+p{
+    color: black;
+}
+footer{
+    text-align: center;
+}
+.pop{
+    text-align: left;
+}
+.col{
+    text-align: left;
+}
+.col h6{
+    color: rgb(12, 117, 117);
+}
+.lst{border: 2px solid rgb(200, 252, 235);
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(200, 252, 235);
+}

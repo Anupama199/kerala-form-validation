@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ nav{
+    margin-top: 10px;
+    float: right;
+ }
+
+#logo{
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#top{
+    text-align: center;
+    color: rgb(18, 18, 154);
+}
+.destination{
+    margin-top: 30px;
+    background-color: rgb(211, 232, 225);
+    padding: 80px;
+}
+
+.col{
+    margin-top: 30px;
+}
+.ol{
+    margin-top: 10px;
+}
+.but button{
+     background-color: rgb(13, 13, 79);
+     font-size: large;
+     }
+ .but{
+    text-align: center;
+    margin-top: 35px;
+ }    
+.exp{
+    margin-top: 30px;
+}
+ .adventure li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ 
+
+}
+    
+ footer{
+    text-align: center;
+}
+.in{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 200px;
+    padding: 30px;
+ }
+
+ .exp{
+    margin-right: 10px;
+    padding-left: 30px;
+    margin-left: 0px;
+    background-color: rgb(250, 243, 226);
+    padding: 100px;
+
+ }
+ #Z{
+    text-align: center;
+    color: rgb(18, 18, 154);
+ }
+
+
+#toc{ text-decoration: none;
+color: black;
+background-color: dodgerblue;
+
+
+}
+
+#login{
+    float: right;
+    height: 0.9cm;
+    width: 3cm;
+   margin-right: 25px;
+   margin-top: 10px;
+
+}
+
+#search{ width: 8cm;
+   margin-right: 10px;
+   margin-top: 10px;
+padding-right: 20px;
+}
+#g{
+    color: rgb(18, 18, 154);
+    text-align: center;
+}
+#pack{ color: rgb(18, 18, 154);
+    text-align: center;
+}
+.gallery {
+  padding: 30px;
+}
+.gal{
+    background-color: rgb(211, 232, 225);
+    padding: 80px;
+}
+#add{
+    text-align: center;
+    color: rgb(18, 18, 154);
+}
+.adventure{
+    background-color: rgb(235, 254, 235);
+    padding: 200px;
+}
+body{
+    background-color: rgb(217, 250, 238);
+}
+.pop{
+    text-align: left;
+}
+.lol{
+    text-align: left;
+}
+.lol h6{
+    color: rgb(12, 117, 117);
+}
+.lst{border: 2px solid rgb(200, 252, 235);
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(200, 252, 235);
+}
+#kot{
+    text-align: center;
+}
+.btn {
+    background-color: blue;
+}

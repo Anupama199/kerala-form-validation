@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    height: 5cm;
+      
+}
+  
+.nav-item{
+    
+    border: 1px solid black;
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-item :hover{
+    
+    background-color: rgb(23, 133, 82);
+    color: aliceblue;
+    transition: 0.5s ease-in-out;
+}
+
+
+.frm{
+    border: 2px solid black;
+    padding: 30px;
+    margin-top: 350px;
+    margin-left: 650px;
+    width: 18%;
+    margin-bottom: 40px;
+}
+
+#h{
+    text-align: center;
+    color: steelblue;
+}
+
+#r{
+    background-color: dodgerblue ;
+    width: 100%;
+}
+
+.in{
+   margin-left: 610px;
+   margin-bottom: 20px;
+   margin-top: 200px;
+}
+footer{
+    text-align: center;
+}
+#doc{
+    text-decoration: none;
+    
+}
+.pop{
+    text-align: left;
+}
+.lol{
+    text-align: left;
+}
+.lol h6{
+    color: rgb(12, 117, 117);
+}
+.lst{border: 2px solid rgb(200, 252, 235);
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(200, 252, 235);
+    margin-top: 200px;
+}
+#kot{
+    text-align: center;
+}
+#r{
+    background-color: dodgerblue ;
+    width: 100%;}
